@@ -1,87 +1,41 @@
-# Servitude · Craft · Excellence
+![Banner](assets/banner.png)
 
-## About
+## About Me
 
-<img
-  width="35%"
-  align="right"
-  alt="Yeshua"
-  src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFweW54azR6bWsybG1va29xa3A1cjdheHM4cHFwaGxlNGE5ZXdhOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KcTUHvjeVtMiMoG0S3/giphy.gif"
-/>
+I think one of the things I struggle with at times is understanding who I truly am. Sometimes I know myself, and other times I do not. Sometimes I find myself bold and zealous, passionate about doing what is right and living with gratitude for life. Other times, I find myself selfish and not great at relationships.
 
-Infrastructure engineer, shaped by automation and cloud systems.
+No matter what I feel internally, though, I want to have a positive impact on others and step out of my comfort zone to lend a hand when I can. That's what I believe life is ultimately about: it is better to give to others than to receive.
 
-Disciplined learning wins the long race;  
-neglect dulls even good hands.
+## Outside of Work
 
-Choose truth over comfort.  
-Character is built the same way as systems, deliberately.
+I enjoy a good pair of sneakers, preferably Jordans, and fashion in general. I love anything with floral embroidery. I love looking at the sky sometimes and seeing how beautiful God has made creation. I love those soft, smushy feelings of love for other people and wanting to be kind to them.
 
-Six childhood years in Lakenheath, England remain a quiet source of nostalgia.
+Classical music is a thing for me, and I enjoy a good workout and protein shake. Chocolate flavor is a must.
 
-Black coffee most days, sweet iced coffee when grace allows.  
-Classical music, KOTOR, sneakers and fashion,  
-and a respectful fear of heights.
+A ’67 Mustang is a dream car of mine.
 
-Always open to questions and thoughtful conversation.
+A small town called Lakenheath, England, will always be my childhood home.
 
-<br clear="right" />
+I have not gamed in a while, but Star Wars: Knights of the Old Republic is still GOATED!
 
-## Dev Tools
+## Tools I Reach For
 
-<table>
-<tr>
-<td valign="top" width="45%">
-
-<p><sub>platforms</sub></p>
 <p>
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/Containers-2496ED?style=flat&logo=docker&logoColor=white" alt="Containers" />
+  <img src="https://img.shields.io/badge/K8s-326CE5?style=flat&logo=kubernetes&logoColor=white" alt="K8s" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat&logo=terraform&logoColor=white" alt="Terraform" />
 </p>
 
-<p><sub>containers</sub></p>
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+## Soundtrack, Lately
+
+<p align="left">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img
+      src="https://spotify-github-profile.kittinanx.com/api/view?uid=marcos96blount&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false"
+      width="320"
+      alt="Spotify recently played"
+    />
+  </a>
 </p>
-
-<p><sub>runtimes · languages</sub></p>
-<p>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-</p>
-
-<p><sub>data</sub></p>
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
-
-<p><sub>automation</sub></p>
-<p>
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
-</p>
-
-<p><sub>editor · environment · workflow</sub></p>
-<p>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
-</p>
-
-</td>
-
-<td valign="top" width="55%" align="center">
-
-<p><sub>soundtrack · lately</sub></p>
-
-<a href="https://github.com/kittinan/spotify-github-profile">
-  <img
-    src="https://spotify-github-profile.kittinanx.com/api/view?uid=marcos96blount&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false"
-    width="320"
-  />
-</a>
-
-</td>
-</tr>
-</table>
