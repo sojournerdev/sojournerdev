@@ -2,9 +2,9 @@
 
 ## About Me
 
-I think one of the things I struggle with at times is understanding who I truly am. Sometimes I know myself, and other times I do not. Sometimes I find myself bold and zealous, passionate about doing what is right and living with gratitude for life. Other times, I find myself selfish and not great at relationships.
+I am still learning who I am, but I know the kind of person I want to keep becoming: someone bold, grateful, principled, and willing to grow.
 
-No matter what I feel internally, though, I want to have a positive impact on others and step out of my comfort zone to lend a hand when I can. That's what I believe life is ultimately about: it is better to give to others than to receive.
+I want my work and relationships to leave people better than I found them. That means stepping outside my comfort zone, lending a hand when I can, and remembering that a meaningful life is built more through giving than receiving.
 
 ## Outside of Work
 
