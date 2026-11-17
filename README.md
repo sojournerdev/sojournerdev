@@ -1,23 +1,25 @@
-![Banner](assets/banner.png)
+<img src="assets/banner.png" alt="Banner" width="800">
 
-## 👤 About Me
+## Observations on Life
 
-I am still learning who I am, but I know the kind of person I want to keep becoming: someone bold, grateful, principled, and willing to grow.
+Living with joy<br>
+for the glory of God.
 
-I want my work and relationships to leave people better than I found them. That means stepping outside my comfort zone, lending a hand when I can, and remembering that a meaningful life is built more through giving than receiving.
+A good pair of sneakers<br>
+and a love of fashion—<br>
+both are a beautiful sight.
 
-## ✨ Outside of Work
+A quiet spot to sit in stillness,<br>
+with a hot beverage close at hand,<br>
+is enough for a man.
 
-I enjoy a good pair of sneakers and fashion (anything floral is a vibe). I love looking at the sky and seeing how beautiful God has made His creation. I try my best to help those in need.
+Classical music and lo-fi—<br>
+a little music for the soul.
 
-Classical music is a thing for me, and I enjoy a good workout and protein shake. Chocolate flavor is a must.
+A ’67 Mustang is an adult Hot Wheels toy.
 
-A ’67 Mustang is a dream car of mine.
+Lakenheath, England—<br>
+a small town that will always feel like home.
 
-A small town called Lakenheath, England, will always be my childhood home.
-
-I have not gamed in a while, but Star Wars: Knights of the Old Republic is still GOATED!
-
-## 🎵 Soundtrack, Lately
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=marcos96blount&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=true&hide_remaster=true&bar_color=53b14f&bar_color_cover=false&mode=dark)](https://github.com/kittinan/spotify-github-profile)
+*Star Wars: Knights of the Old Republic*—<br>
+a forever GOAT.
